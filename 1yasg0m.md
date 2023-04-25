@@ -1,0 +1,381 @@
+Model: GPT-4
+
+> 10th grade students at my school will be conducting an interview to transition to 11th grade. They will be following these instructions "Job Description Latitude High eleventh grade candidates should be prepared for an academically and personally challenging setting. According to college admissions, academic performance in the eleventh grade is weighed most heavily for entrance. Students entering the junior year at Latitude should be prepared to take on a foreign language course on top of their 3 core academic classes which adds to students’ workload. In addition to this increase in academic responsibility, candidates will also take on more extracurricular activities. During this year, students will represent Latitude by actively participating in a professional setting through the month-long internship program. These candidates should also be prepared to manage the tasks of preparing for SAT’s, researching colleges of interest, and applying for scholarships. Position Qualifications: Ability to balance three classes, foreign language, and an internship Ability to complete beautiful work that demonstrates refinement and pride Comfort presenting evidence of learning to a variety of audiences Ability to represent Latitude both on campus and in the community, through volunteering, leadership, and good citizenship Ability to self-advocate and work independently or collaborate in groups to complete work in an effective, efficient manner Ability to genuinely assess one’s strengths, weaknesses, and growth as a learner Requirements for Application: In order to receive an interview, candidates must submit a cover letter and resume Interviews will take place on Wednesday June 1st and Thursday June 2nd Applicants are expected to dress professionally and to arrive on time, prepared with a cover letter and resume (8 printed copies of each) Format and expectations for interview: Student steps out, resume passed out to panel. (Panel has 2 minutes to review) Student walks in dressed in professional business attire (check with teacher), shake everyones hand in the panel (5min) Student passes out their Cover Letter (2 paragraphs to a complete page), and the first question is “Tell us about yourself.” You will then read the Cover Letter out loud to the panel. (5min) Panelists will be expected to ask questions (pulling from the question bank) and a panelist facilitator will be assigned for each interview. (10 min) To conclude the interview, the interviewee will thank the panel, shake panelists hands, and leave the room for the panelists to discuss the interview. The student will return to receive feedback. (5 min)" We already have a list of questions, included here: "Tell us about your 10th grade experience. Tell us about a time when you were proud of yourself this year. Tell us about a time when you were assertive in a group. Tell us about a time when you put another person's learning needs before your own. Tell us about a time when you had to overcome a challenge. Tell us about a time when you took leadership in a group. Tell us about a time when you grew in one of the Latitude competencies. Tell us about a time when you demonstrated proficiency at \[pick a skill from resume\]. Tell us about a time when you had to correct an error or mistake you made. Tell us about a time when you had to come to a compromise with a group (either in ideas, direction, or pacing of the group) …you had to speed up/slow down to accommodate group members …you had to change course in a project …you had to change the way you thought about a task/project What is a skill you have continued to struggle with despite efforts to overcome these difficulties? What have you already tried to overcome this, and what were the results? Since you will have more independent responsibilities next year (e.g., internship, foreign-language requirement), how do we know that you are ready to manage your own time to have success? What are you most hoping to improve in next year and why? What is your biggest area for growth next year, and why? What is your biggest weakness and how can you overcome it?" Your task is to serve as my teaching assistant to build scaffolding to help students develop a resume. I want a lesson plan that leverages the student's answers to the questions above to help them first brainstorm ideas for what goes on the resume, then write a great resume with active language to describe their accomplishments. This resume will be used the following year in their applications for internships.
+> 
+> 1 / 1
+
+Lesson Plan: Building a Resume Leveraging Answers to Interview Questions
+
+Lesson Objective: By the end of this lesson, students will be able to use their answers to interview questions to brainstorm ideas and create a well-written resume with active language to describe their accomplishments.
+
+Materials:
+
+*   Whiteboard/Blackboard or Smart Board
+*   Markers or Chalk
+*   Interview question list
+*   Sample resumes
+*   Computers or pen and paper for students
+*   Resume templates (optional)
+
+Duration: 90 minutes
+
+Introduction (10 minutes):
+
+1.  Begin the lesson by explaining the importance of a resume, specifically for their upcoming interviews and future internships.
+2.  Discuss the structure of a resume and its key components (e.g., contact information, objective statement, education, experience, skills, and extracurricular activities).
+3.  Provide examples of well-written resumes to give students an idea of what a polished and professional resume looks like.
+
+Activity 1: Brainstorming (20 minutes):
+
+1.  Divide the students into small groups of 3-4.
+2.  Ask each group to discuss their answers to the interview questions, focusing on experiences and skills that could be relevant for their resumes.
+3.  Instruct each group to create a list of accomplishments, experiences, and skills that they believe should be included in their resumes.
+
+Activity 2: Identifying Action Verbs (15 minutes):
+
+1.  Write a list of common action verbs (e.g., managed, organized, led, created, designed, etc.) on the board.
+2.  Ask students to come up with additional action verbs that they can use to describe their experiences and accomplishments.
+3.  Encourage students to use these action verbs in their resumes to effectively describe their experiences and skills.
+
+Activity 3: Resume Writing (30 minutes):
+
+1.  Provide each student with a computer or pen and paper to start working on their resumes.
+2.  Encourage students to use the brainstormed ideas from Activity 1 and the action verbs from Activity 2 to create their resumes.
+3.  Offer resume templates if students need additional guidance on structure and formatting.
+4.  Circulate around the room to provide individual support and feedback to students as they work on their resumes.
+
+Activity 4: Peer Review (10 minutes):
+
+1.  Once students have completed their resumes, ask them to exchange resumes with a partner.
+2.  Instruct students to review their partner's resume and provide constructive feedback, focusing on content, active language, and formatting.
+3.  Allow students to make any necessary revisions based on the feedback received.
+
+Conclusion (5 minutes):
+
+1.  Wrap up the lesson by discussing the importance of continually updating and refining their resumes as they gain more experiences and skills throughout their academic and professional lives.
+2.  Remind students to bring their finalized resumes and cover letters to their interviews, as well as any additional materials they may need (e.g., 8 printed copies of each document).
+
+Assessment: Assess students' resumes based on content, active language, and formatting. Provide feedback and suggestions for improvement as necessary.
+
+1 / 1
+
+> This is a great start! Thank you. My plan is to break this down into multiple a five-day resume writing workshop, with each lesson being 45 minutes to an hour. Please start by listing the title of each day's lesson plan, but no more detail than that.
+> 
+> 1 / 1
+
+Day 1: Introduction to Resumes and Their Importance Day 2: Brainstorming and Identifying Relevant Experiences Day 3: Crafting Powerful Statements with Active Language Day 4: Formatting and Structuring Your Resume Day 5: Peer Review and Finalizing Your Resume
+
+1 / 1
+
+> Let's combine days 1 and 2 and make this a 4-day workshop. Please provide a paragraph describing each day of lessons.
+> 
+> 1 / 1
+
+Day 1: Introduction to Resumes and Brainstorming Relevant Experiences (45-60 minutes) In this lesson, students will be introduced to the importance of resumes and their key components. They will be provided with examples of well-written resumes to understand the structure and content. Students will then participate in a brainstorming activity where they will discuss their answers to the interview questions in small groups and create a list of accomplishments, experiences, and skills that they believe should be included in their resumes.
+
+Day 2: Crafting Powerful Statements with Active Language (45-60 minutes) In this lesson, students will learn the significance of using active language in their resumes. They will be introduced to common action verbs and will be encouraged to come up with additional action verbs to describe their experiences and accomplishments. Students will then begin drafting the content of their resumes, focusing on incorporating the action verbs and the brainstormed ideas from the previous lesson.
+
+Day 3: Formatting and Structuring Your Resume (45-60 minutes) During this lesson, students will learn about the proper formatting and structure of a resume. They will be provided with resume templates and guidance on how to organize their content effectively. Students will continue working on their resumes, paying close attention to formatting and structure, while the teacher circulates around the room to offer individual support and feedback.
+
+Day 4: Peer Review and Finalizing Your Resume (45-60 minutes) In the final lesson, students will participate in a peer review activity, exchanging resumes with a partner and providing constructive feedback on content, active language, and formatting. Students will have the opportunity to revise their resumes based on the feedback received. The lesson will conclude with a discussion on the importance of regularly updating and refining resumes as students gain more experiences and skills throughout their academic and professional lives.
+
+1 / 1
+
+> Please write the full day 1 lesson plan
+> 
+> 1 / 1
+
+Day 1: Introduction to Resumes and Brainstorming Relevant Experiences
+
+Lesson Objective: By the end of this lesson, students will be able to understand the importance and components of a resume, as well as brainstorm relevant experiences and accomplishments that can be included in their resumes.
+
+Materials:
+
+*   Whiteboard/Blackboard or Smart Board
+*   Markers or Chalk
+*   Interview question list
+*   Sample resumes
+
+Duration: 45-60 minutes
+
+Introduction (10 minutes):
+
+1.  Begin the lesson by explaining the importance of a resume, specifically for their upcoming interviews and future internships.
+2.  Discuss the structure of a resume and its key components (e.g., contact information, objective statement, education, experience, skills, and extracurricular activities).
+3.  Provide examples of well-written resumes to give students an idea of what a polished and professional resume looks like.
+
+Activity 1: Discussing Interview Questions (15 minutes):
+
+1.  Divide the students into pairs or small groups of 3-4.
+2.  Provide each group with the list of interview questions.
+3.  Instruct the students to discuss the questions within their groups, focusing on their personal experiences and accomplishments that could be relevant for their resumes.
+4.  Encourage students to take notes of their ideas for later use in their resumes.
+
+Activity 2: Brainstorming Resume Components (20 minutes):
+
+1.  As a class, discuss the brainstormed ideas from Activity 1 and list them on the board.
+2.  Divide the board into sections for education, experience, skills, and extracurricular activities.
+3.  Instruct students to come up with more ideas and accomplishments for each section of the resume, adding them to the board.
+4.  Encourage students to consider their strengths, personal growth, and achievements when contributing to the list.
+
+Conclusion (5-10 minutes):
+
+1.  Review the brainstormed ideas on the board and remind students that these will serve as the foundation for creating their resumes.
+2.  Discuss the importance of tailoring a resume to the specific position or opportunity, emphasizing the need to highlight the most relevant experiences and skills.
+3.  Inform students that in the next lesson, they will learn about using active language to effectively describe their accomplishments and experiences in their resumes.
+
+1 / 1
+
+> For the rest of your lessons that you generate, please begin with a 5-15 minute section to kickoff the lesson called a "Do Now." A "Do Now" allows students work silently for the beginning of class to activate knowledge. For example, for this lesson, I would design a do now like this: "Do Now: Students will begin with five minutes to review a resume. First, they will be asked to annotate the resume with the following instructions: - Circle any role you see on the resume; - Underline any active verbs you find in descriptions: - Examples: managed, initiated, founded, built, engineered, published - Non-examples: was, did, had - Box any skills or technologies the resume references Then, they will answer the following questions: 1. What experience stands out to you and most? Cite one quotation from the resume that made the experience pop. 2. What experience from your year do you think will stand out the most on your resume?" Similarly, lessons should close with a quick exit ticket that students can answer that should conclude the lesson. It can be one question, like "list three sections of a resume?" or something to promote metacognition like "what was an idea you generated today that you learned from the lesson?" Please give me an example of a different do now and exit ticket for this first lesson plan.
+> 
+> 1 / 1
+
+Do Now (5-15 minutes):
+
+1.  Provide students with a sample resume to review.
+2.  Ask students to spend 5 minutes silently annotating the resume with the following instructions:
+    *   Circle any role you see on the resume;
+    *   Underline any active verbs you find in descriptions;
+    *   Box any skills or technologies the resume references.
+3.  After the annotation, students will answer the following questions in writing:
+    1.  What is one accomplishment mentioned in the resume that impressed you? Cite one quotation from the resume that made the accomplishment stand out.
+    2.  What experience or accomplishment from your own life do you think will stand out the most on your resume? Explain why it is significant.
+
+Exit Ticket (3-5 minutes): At the end of the lesson, distribute a short exit ticket for students to complete. The exit ticket should consist of one question to gauge students' understanding of the lesson content and one question to promote metacognition.
+
+1.  List three sections commonly found in a resume.
+2.  Reflect on today's lesson. What is one key insight or idea you generated during the brainstorming activities that you believe will be valuable when creating your resume?
+
+1 / 1
+
+> Great work! I'll give you a couple more ideas of what a good do now would be, and I'd like to see you come up with a novel one. 1. Jigsaw: Distribute different examples of an experience from model resumes, such as "internship at squid industries," "ROV project leader," "engineering club CEO" to students. Each student will receive a unique one, read and annotate it, and then describe it to a small group such that each student in the group describes a different example. 2. Have students list five examples of when they might use their resume in the future. Answer the questions who will you send your resume to in the future and what do you think they may be looking for?
+> 
+> 1 / 1
+
+Do Now (5-15 minutes): "Identifying Transferable Skills and Experiences"
+
+1.  Provide each student with a list of five common scenarios or roles where they might need to use their resume in the future (e.g., applying for an internship, college application, job interview, scholarship application, or leadership position in a club).
+    
+2.  Instruct students to spend 5 minutes silently reflecting on each scenario and writing down the skills, experiences, or qualities they possess that would make them a strong candidate in that situation.
+    
+3.  After the individual reflection, ask students to form small groups of 3-4 and share their thoughts on the skills and experiences they identified as relevant to each scenario.
+    
+4.  Encourage group discussion on the similarities and differences between their answers, and how they can tailor their resumes to emphasize their strengths in various situations.
+    
+
+1 / 1
+
+> Great work! Please write the lesson plan for day 2 including the do now and exit ticket
+> 
+> 1 / 1
+
+Day 2: Crafting Powerful Statements with Active Language
+
+Lesson Objective: By the end of this lesson, students will be able to use active language to describe their experiences and accomplishments effectively in their resumes.
+
+Materials:
+
+*   Whiteboard/Blackboard or Smart Board
+*   Markers or Chalk
+*   List of action verbs
+*   Sample resumes with strong active language
+
+Duration: 45-60 minutes
+
+Do Now: Jigsaw Activity (10 minutes):
+
+1.  Distribute different examples of experience statements from model resumes, such as "internship at squid industries," "ROV project leader," or "engineering club CEO" to students. Each student will receive a unique one, read and annotate it, focusing on the active language used.
+2.  Instruct students to form small groups of 3-4, where each student in the group describes their assigned example, emphasizing the active language in the statement.
+3.  Encourage students to discuss the impact of active language on the effectiveness of the statements and how it highlights the candidate's accomplishments and skills.
+
+Introduction (5 minutes):
+
+1.  Explain the importance of using active language in resume writing.
+2.  Provide students with a list of common action verbs and encourage them to come up with additional action verbs related to their experiences.
+
+Activity 1: Drafting Resume Content with Active Language (20 minutes):
+
+1.  Instruct students to begin working on their resume content, using the brainstormed ideas from the previous lesson and the action verbs from the introduction.
+2.  Encourage students to focus on crafting powerful statements that showcase their accomplishments, experiences, and skills.
+3.  Circulate around the room, providing support and feedback to students as they work on their resume content.
+
+Activity 2: Sharing and Discussing Resume Statements (10 minutes):
+
+1.  Invite students to share a statement from their resume draft with the class.
+2.  Discuss the effectiveness of the statement, focusing on the use of active language and how it highlights the student's experiences and accomplishments.
+3.  Encourage classmates to provide feedback and suggestions on how to improve the statement further, if needed.
+
+Exit Ticket (3-5 minutes):
+
+1.  List three action verbs that you used in your resume statements.
+2.  Reflect on today's lesson. How has your understanding of active language influenced the way you describe your experiences and accomplishments in your resume?
+
+1 / 1
+
+> Great! Please share day 3
+> 
+> 1 / 1
+
+Day 3: Formatting and Structuring Your Resume
+
+Lesson Objective: By the end of this lesson, students will be able to format and structure their resumes effectively, showcasing their experiences and skills in a professional and organized manner.
+
+Materials:
+
+*   Whiteboard/Blackboard or Smart Board
+*   Markers or Chalk
+*   Resume templates
+*   Sample resumes with effective formatting and structure
+
+Duration: 45-60 minutes
+
+Do Now: Reviewing Resume Formatting (10 minutes):
+
+1.  Provide students with sample resumes that demonstrate effective formatting and structure.
+2.  Instruct students to spend 5 minutes silently reviewing and annotating the resumes, focusing on the organization, layout, and design elements.
+3.  After the review, have students answer the following questions in writing:
+    1.  What aspects of the formatting and structure in the sample resumes make them visually appealing and easy to read?
+    2.  How can you apply these formatting techniques to your own resume to make it look more professional and organized?
+
+Introduction (5 minutes):
+
+1.  Discuss the importance of proper formatting and structure in a resume.
+2.  Provide students with resume templates and guidelines on how to organize their content effectively (e.g., chronological, functional, or combination formats).
+
+Activity 1: Formatting and Structuring Resume Content (20 minutes):
+
+1.  Instruct students to begin working on the formatting and structure of their resumes, using the templates and guidelines provided.
+2.  Encourage students to experiment with different layouts and designs to find the one that best showcases their experiences and skills.
+3.  Circulate around the room, providing support and feedback to students as they work on their resume formatting and structure.
+
+Activity 2: Sharing and Discussing Resume Formats (10 minutes):
+
+1.  Invite students to share their chosen resume format and structure with the class.
+2.  Discuss the effectiveness of the chosen format, focusing on the organization, layout, and design elements.
+3.  Encourage classmates to provide feedback and suggestions on how to improve the format further, if needed.
+
+Exit Ticket (3-5 minutes):
+
+1.  Identify the resume format (chronological, functional, or combination) you chose for your resume and explain why you chose it.
+2.  Reflect on today's lesson. What is one aspect of formatting or structuring your resume that you found particularly challenging, and how did you overcome that challenge?
+
+1 / 1
+
+> Can you suggest a different do now?
+> 
+> 1 / 1
+
+Do Now: Comparing Resume Formats (10 minutes):
+
+1.  Provide students with three sample resumes, each showcasing a different format: chronological, functional, and combination.
+2.  Instruct students to spend 5 minutes silently reviewing and comparing the resumes, focusing on the organization, layout, and design elements of each format.
+3.  After the review, have students answer the following questions in writing:
+    1.  What are the key differences between the three resume formats?
+    2.  Based on your own experiences and skills, which format do you think would best showcase your qualifications? Explain your reasoning.
+
+1 / 1
+
+> Can you try one more? Suggest something very different
+> 
+> 1 / 1
+
+Do Now: Resume Format and Job Type (10 minutes):
+
+1.  Provide students with a list of different job types or industries (e.g., technology, healthcare, creative arts, finance, and customer service).
+2.  Instruct students to spend 5 minutes silently reflecting on which job type or industry aligns with their experiences, skills, and future aspirations.
+3.  After the reflection, have students answer the following questions in writing:
+    1.  Which job type or industry did you choose, and why do you think it aligns with your experiences and skills?
+    2.  What specific aspects of a resume format (e.g., organization, layout, and design elements) would be particularly important for showcasing your qualifications in the chosen job type or industry?
+
+1 / 1
+
+> Let's rework this lesson altogether. I want to give students computers at the beginning of class and provide them with two resume templates. For the do now, I want them to compare the templates, then find a partner and find a third resume template online. Then, I want to have a class discussion about resume formats. After the discussion, students should have about 30 minutes to work on their resume by inputting the content from the prior day. Finally, run a think pair share to close where students answer a question as to why they chose their resume, share it with a partner, then share it with the class.
+> 
+> 1 / 1
+
+Day 3: Formatting and Structuring Your Resume
+
+Lesson Objective: By the end of this lesson, students will be able to format and structure their resumes effectively, showcasing their experiences and skills in a professional and organized manner.
+
+Materials:
+
+*   Computers or laptops with internet access
+*   Two resume templates
+*   Sample resumes with effective formatting and structure
+
+Duration: 45-60 minutes
+
+Do Now: Comparing Resume Templates (10 minutes):
+
+1.  Provide students with computers or laptops and two resume templates.
+2.  Instruct students to spend 5 minutes silently comparing the templates, focusing on the organization, layout, and design elements.
+3.  After comparing the templates, students should find a partner and work together to find a third resume template online.
+
+Class Discussion: Resume Formats (5-10 minutes):
+
+1.  Initiate a class discussion about the different resume formats, including the ones students found online.
+2.  Encourage students to share their observations and preferences regarding the formats, as well as what they think would work best for their own resumes.
+
+Activity: Inputting Resume Content (30 minutes):
+
+1.  Instruct students to select a resume template that best fits their needs and preferences.
+2.  Have students input their content from the prior day into their chosen template, focusing on proper formatting and structure.
+3.  Circulate around the room, providing support and feedback to students as they work on their resume formatting and structure.
+
+Think-Pair-Share: Discussing Resume Choices (5-10 minutes):
+
+1.  Have students reflect on the question: Why did you choose your specific resume template and format?
+2.  Instruct students to pair up and share their reasons for choosing their resume template and format with their partner.
+3.  Invite a few pairs to share their thoughts with the class, encouraging a brief discussion about the different choices and the importance of selecting a format that best showcases their experiences and skills.
+
+Exit Ticket (Optional, 2-3 minutes):
+
+1.  Write down one new insight or idea you gained from today's lesson or class discussion about resume formatting and structure.
+
+1 / 1
+
+> Ok - let's see day 4 now
+> 
+> 1 / 1
+
+Day 4: Finalizing and Revising Your Resume
+
+Lesson Objective: By the end of this lesson, students will be able to finalize and revise their resumes, ensuring that they effectively showcase their experiences and skills in a professional and organized manner.
+
+Materials:
+
+*   Computers or laptops with internet access
+*   Completed resume drafts
+*   Resume revision checklist
+
+Duration: 45-60 minutes
+
+Do Now: Self-Assessment and Revision Planning (10 minutes):
+
+1.  Provide students with a resume revision checklist, including aspects such as formatting, structure, grammar, and content.
+2.  Instruct students to spend 5 minutes silently reviewing their resume drafts and using the checklist to identify areas that need improvement or revision.
+3.  After the review, have students create a brief revision plan, listing the specific changes they want to make to their resumes based on their self-assessment.
+
+Activity 1: Resume Revision (25 minutes):
+
+1.  Instruct students to begin working on their resume revisions, using their revision plans as a guide.
+2.  Encourage students to focus on improving their resume's formatting, structure, grammar, and content to ensure that it effectively showcases their experiences and skills.
+3.  Circulate around the room, providing support and feedback to students as they work on their revisions.
+
+Activity 2: Peer Review and Feedback (10 minutes):
+
+1.  Have students pair up and exchange their revised resumes.
+2.  Instruct each student to review their partner's resume, using the resume revision checklist to provide feedback and suggestions for improvement.
+3.  Encourage students to discuss their feedback with their partners, focusing on the aspects that need further revision or improvement.
+
+Activity 3: Final Revisions and Reflection (5-10 minutes):
+
+1.  Instruct students to make any final revisions to their resumes based on the peer review feedback they received.
+2.  Have students reflect on the revision process and how their resumes have evolved over the course of the workshop.
+
+Exit Ticket (3-5 minutes):
+
+1.  Write down one piece of feedback you received during the peer review that helped you improve your resume.
+2.  Reflect on your overall experience during the resume writing workshop. What is one thing you learned about yourself or your skills that you didn't know before creating your resume?
+
+1 / 1
